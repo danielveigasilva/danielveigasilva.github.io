@@ -1,0 +1,54 @@
+#video-fundo {
+    position: fixed;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    z-index: 0;
+  }
+.painel {
+    position: relative;
+    min-width: 100%;
+    min-height: 100%;
+    text-align: center;
+    z-index: 1;
+}
+
+.painel h1{
+    color: white;
+    padding-top: 150px;
+    font-family: "Microsoft JhengHei UI Light", Arial; 
+    font-size: 70px; 
+}
+.painel h1::after{
+    content: '|';
+    margin-left: 5px;
+    opacity: 1;
+    animation: pisca .7s infinite;
+}
+.this{
+    color: cornflowerblue;
+}
+.Site{
+    color: yellow;
+}
+.IsBuilding{
+    color: white;
+}
+
+@keyframes pisca{
+    0%, 100%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+}
+
+
+

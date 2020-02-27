@@ -1,1 +1,40 @@
-OláMundo!
+<html>
+  <header>
+    <title>Daniel Veiga</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel = "stylesheet" type = "text/css" href = "style.css" />
+  </header>
+  <body>
+    <video id = "video-fundo" src="midia/fundo1.mp4" muted autoplay loop></video>
+    <div class="jumbotron text-center">
+      <div class="painel">
+        <h1 class="titulo">
+          <a class="this">this</a>.<a class="Site">Site</a>.<a class="IsBuilding">IsBuilding( )</a>
+        </h1>
+      </div>
+    </div>
+    <script>
+      function typeWrite(elemento){
+        const textoArray = elemento.innerHTML.split('');
+        elemento.innerHTML = ' ';
+        textoArray.forEach(function(letra, i)
+        {   
+          setTimeout(function()
+          {
+              elemento.innerHTML += letra;
+          }
+          , 75 * i)
+
+        });
+      }
+      const titulo1 = document.querySelector('.this');
+      const titulo2 = document.querySelector('.Site');
+      const titulo3 = document.querySelector('.IsBuilding');
+      typeWrite(titulo1);
+      typeWrite(titulo2);
+      typeWrite(titulo3);
+    
+    </script>
+
+  </body>
+</html>
