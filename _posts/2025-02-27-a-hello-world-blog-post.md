@@ -5,7 +5,7 @@ date: 2025-02-27 18:10:00 +0000
 categories: []
 tags: []
 image:
-  path: /assets/img/hello-world-macintosh.png
+  path: /assets/img/posts/a-hello-world-blog-post/cover.png
   alt: Hello World!
 render_with_liquid: false
 ---
