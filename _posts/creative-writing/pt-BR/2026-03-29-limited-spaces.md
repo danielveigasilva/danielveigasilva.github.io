@@ -1,7 +1,7 @@
 ---
 title: Espaços Limitados
 author: daniel
-date: 2026-03-10 18:00:00 +0000
+date: 2026-03-29 18:00:00 +0000
 categories: ['creative-writing']
 tags: []
 image:
@@ -19,10 +19,21 @@ lang: pt-BR
 
 O viajante do tempo foi ao futuro.
 
-"É... faz sentido", pensou ao chegar.  
-"O universo está em constante movimento"
+_"É... faz sentido"_, pensou ao chegar.  
+_"O universo está em constante movimento"_
 
 Morreu à deriva,  
 onde a Terra costumava estar cem anos atrás.
   
+---
+
+## Um Pouco Mais
+
+O cometa 3I/ATLAS chega ao sistema solar.  
+Passa raspando pela Terra.  
+Segue adiante, rumo ao espaço profundo.  
+
+_“Um pouco mais à esquerda na próxima!”_   
+diz Zubak-IV ao sniper de Delta-9.
+
 ---

@@ -1,7 +1,7 @@
 ---
 title: Limited Spaces
 author: daniel
-date: 2026-03-10 18:00:00 +0000
+date: 2026-03-29 18:00:00 +0000
 categories: ['creative-writing']
 tags: []
 image:
@@ -19,10 +19,21 @@ lang: en
 
 The time traveler went to the future.
 
-"Yeah... that makes sense", he thought upon arriving.  
-"The universe is in constant motion"
+_"Yeah... that makes sense"_, he thought upon arriving.  
+_"The universe is in constant motion"_
 
 He died adrift,  
 where Earth used to be a hundred years ago.
+
+---
+
+## A Little More
+
+Comet 3I/ATLAS enters the solar system.  
+It narrowly misses Earth.  
+It continues onward, into deep space.
+
+_"A little more to the left next time!"_    
+said Zubak-IV to the Delta-9 sniper.
 
 ---
