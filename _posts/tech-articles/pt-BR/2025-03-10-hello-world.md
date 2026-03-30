@@ -2,7 +2,7 @@
 title: Olá Mundo!
 author: daniel
 date: 2025-03-10 18:00:00 +0000
-categories: []
+categories: ['tech-articles']
 tags: []
 image:
   path: /assets/img/posts/hello-world/cover-pt-BR.png
