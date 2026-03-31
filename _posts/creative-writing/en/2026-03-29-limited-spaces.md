@@ -12,7 +12,7 @@ description: "Sci-fi flash fiction"
 lang: en
 ---
 
-> Also available on [Wattpad](https://www.wattpad.com/story/409555457-espa%C3%A7os-limitados)
+> Also available on [Wattpad](https://www.wattpad.com/myworks/409594184-limited-spaces)
 {: .prompt-tip }
 
 ## Adrift
@@ -27,7 +27,7 @@ where Earth used to be a hundred years ago.
 
 ---
 
-## A Little More
+## Next Time
 
 Comet 3I/ATLAS enters the solar system.  
 It narrowly misses Earth.  
@@ -35,5 +35,17 @@ It continues onward, into deep space.
 
 _"A little more to the left next time!"_    
 said Zubak-IV to the Delta-9 sniper.
+
+---
+
+## Agreement
+
+Doctor Victor was euphoric.  
+At last, he had completed the Machine of Absolute Agreement.
+
+But it only took a second of inattention with his coffee...
+
+The incident was a tragedy.  
+Everyone agreed it was.
 
 ---

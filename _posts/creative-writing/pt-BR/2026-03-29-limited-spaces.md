@@ -27,7 +27,7 @@ onde a Terra costumava estar cem anos atrás.
   
 ---
 
-## Um Pouco Mais
+## Na Próxima
 
 O cometa 3I/ATLAS chega ao sistema solar.  
 Passa raspando pela Terra.  
@@ -35,5 +35,17 @@ Segue adiante, rumo ao espaço profundo.
 
 _“Um pouco mais à esquerda na próxima!”_   
 diz Zubak-IV ao sniper de Delta-9.
+
+---
+
+## Concordância
+
+O doutor Vitor estava eufórico.  
+Finalmente concluíra a Máquina da Concordância Absoluta.  
+
+Mas bastou um segundo de desatenção com o café...
+
+O incidente foi uma lástima.  
+Todos concordavam que foi.
 
 ---
