@@ -49,3 +49,23 @@ The incident was a tragedy.
 Everyone agreed it was.
 
 ---
+
+## Search
+
+The search had been long.  
+Tormented by endless night, they traveled ethereal roads with no beginning or end.  
+But when they finally crossed its threshold, they exclaimed:
+
+_“The prices at these space rest stops are outrageous!”_
+
+---
+
+## Starter
+
+Baker’s bakery was the most traditional in the country.  
+Every batch was exactly the same.  
+His secret? The starter.  
+
+It wasn’t easy to find one compatible with the cloning process.
+
+---

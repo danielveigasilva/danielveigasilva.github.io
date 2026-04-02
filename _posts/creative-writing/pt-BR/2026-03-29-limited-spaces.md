@@ -49,3 +49,23 @@ O incidente foi uma lástima.
 Todos concordavam que foi.
 
 ---
+
+## Busca
+
+A busca pelo Graal foi longa.  
+Castigados pela noite eterna, trilharam estradas etéreas sem começo nem fim.  
+Quando finalmente adentraram seus umbrais, exclamaram:
+
+_“Os preços dessas rodoviárias espaciais são absurdos!”_
+ 
+---
+
+## Fermento
+
+A padaria do seu Agenor era a mais tradicional do país.  
+Cada fornada era exatamente igual.  
+Seu segredo? O fermento.
+
+Foi difícil encontrar um compatível com o processo de clonagem.
+
+---
