@@ -69,3 +69,16 @@ His secret? The starter.
 It wasn’t easy to find one compatible with the cloning process.
 
 ---
+
+## The Monster
+
+He exhumed, dismembered, and stitched.  
+He prayed to the god he had once renounced.  
+The 1.21 gigawatts did the rest.  
+
+He was alive!
+
+“Welcome back, Dr. Frankenstein",  
+said the monster as he resurrected his creator.
+
+---
