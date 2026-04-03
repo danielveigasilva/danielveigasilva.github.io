@@ -69,3 +69,16 @@ Seu segredo? O fermento.
 Foi difícil encontrar um compatível com o processo de clonagem.
 
 ---
+
+## O Monstro
+
+Exumou, esquartejou e costurou.  
+Rogou ao deus que havia renegado.  
+Os 1.21 gigawatts fizeram o resto.  
+
+Estava vivo!
+
+_“Bem-vindo de volta, Dr. Frankenstein”_,
+disse o monstro ao ressuscitar seu criador.
+
+---
