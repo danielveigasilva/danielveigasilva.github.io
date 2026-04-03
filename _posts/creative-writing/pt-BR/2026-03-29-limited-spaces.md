@@ -78,7 +78,7 @@ Os 1.21 gigawatts fizeram o resto.
 
 Estava vivo!
 
-_“Bem-vindo de volta, Dr. Frankenstein”_,
+_“Bem-vindo de volta, Dr. Frankenstein”_,  
 disse o monstro ao ressuscitar seu criador.
 
 ---
