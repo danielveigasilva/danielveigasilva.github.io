@@ -93,3 +93,14 @@ _“Funcionou!”_
 declara o homem que acreditava ser Ricardo.
 
 ---
+
+## Alma Penada
+
+Uma alma penada vagava pelo espaço.  
+Não tinha destino, era refém da inércia.  
+Estava só, a tripulação partira.
+
+_“O que sou?”_, perguntou-se.  
+A nave senciente teria a eternidade para descobrir.
+
+---

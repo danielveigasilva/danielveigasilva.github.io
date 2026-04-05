@@ -92,3 +92,14 @@ _“It worked!”_
 declared the man who believed himself to be Richard.
 
 ---
+
+## Restless Soul 
+
+A restless soul drifted through space.  
+It had no destination, a prisoner of inertia.  
+It was alone, the crew had gone.
+
+_“What am I?”_, it wondered.  
+The sentient ship would have eternity to find out.
+
+---
