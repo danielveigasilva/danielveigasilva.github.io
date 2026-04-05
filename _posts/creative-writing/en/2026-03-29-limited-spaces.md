@@ -78,7 +78,17 @@ The 1.21 gigawatts did the rest.
 
 He was alive!
 
-“Welcome back, Dr. Frankenstein",  
+_“Welcome back, Dr. Frankenstein"_  
 said the monster as he resurrected his creator.
+
+---
+
+## Lever
+
+Richard ceased to exist when they pulled the lever.  
+When the electrical discharge stopped, everyone turned to the other end of the room.
+
+_“It worked!”_  
+declared the man who believed himself to be Richard.
 
 ---

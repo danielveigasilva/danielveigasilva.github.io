@@ -78,7 +78,17 @@ Os 1.21 gigawatts fizeram o resto.
 
 Estava vivo!
 
-_“Bem-vindo de volta, Dr. Frankenstein”_,  
+_“Bem-vindo de volta, Dr. Frankenstein”_  
 disse o monstro ao ressuscitar seu criador.
+
+---
+
+## Alavanca
+
+Ricardo deixou de existir ao puxarem a alavanca.  
+Quando a descarga elétrica cessou, todos se voltaram para a outra extremidade da sala.
+
+_“Funcionou!”_  
+declarou o homem que achava ser Ricardo.
 
 ---
