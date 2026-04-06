@@ -22,8 +22,7 @@ O viajante do tempo foi ao futuro.
 _"É... faz sentido"_, pensou ao chegar.  
 _"O universo está em constante movimento"_
 
-Morreu à deriva,  
-onde a Terra costumava estar cem anos atrás.
+Morreu à deriva, onde a Terra costumava estar cem anos atrás.
   
 ---
 
@@ -33,8 +32,7 @@ O cometa 3I/ATLAS chega ao sistema solar.
 Passa raspando pela Terra.  
 Segue adiante, rumo ao espaço profundo.  
 
-_“Um pouco mais à esquerda na próxima!”_   
-diz Zubak-IV ao sniper de Delta-9.
+_“Um pouco mais à esquerda na próxima!”_, diz Zubak-IV ao sniper de Delta-9.
 
 ---
 
@@ -78,19 +76,16 @@ Os 1.21 gigawatts fizeram o resto.
 
 Estava vivo!
 
-_“Bem-vindo de volta, Dr. Frankenstein”_  
-disse o monstro ao ressuscitar seu criador.
+_“Bem-vindo de volta, Dr. Frankenstein”_, disse o monstro ao ressuscitar seu criador.
 
 ---
 
 ## Alavanca
 
 Ao puxarem a alavanca Ricardo deixou de existir.  
-Quando a descarga elétrica cessou,  
-todos se voltaram para a outra extremidade da sala.
+Quando a descarga elétrica cessou, todos se voltaram para a outra extremidade da sala.
 
-_“Funcionou!”_  
-declara o homem que acreditava ser Ricardo.
+_“Funcionou!”_, declara o homem que acreditava ser Ricardo.
 
 ---
 
@@ -98,9 +93,17 @@ declara o homem que acreditava ser Ricardo.
 
 Uma alma penada vagava pelo espaço.  
 Não tinha destino, era refém da inércia.  
-Estava só, a tripulação partira.
+Estava só, abandonada pela tripulação.
 
 _“O que sou?”_, perguntou-se.  
 A nave senciente teria a eternidade para descobrir.
+
+---
+
+## Gorjetas
+
+A melhor e pior parte de ser um Entregador Temporal são as gorjetas.  
+Se tiver sorte, pode receber em mãos até três moedas de ouro.  
+Ou três pedras na cabeça...
 
 ---

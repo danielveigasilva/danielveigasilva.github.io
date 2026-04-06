@@ -22,8 +22,7 @@ The time traveler went to the future.
 _"Yeah... that makes sense"_, he thought upon arriving.  
 _"The universe is in constant motion"_
 
-He died adrift,  
-where Earth used to be a hundred years ago.
+He died adrift, where Earth used to be a hundred years ago.
 
 ---
 
@@ -33,8 +32,7 @@ Comet 3I/ATLAS enters the solar system.
 It narrowly misses Earth.  
 It continues onward, into deep space.
 
-_"A little more to the left next time!"_    
-said Zubak-IV to the Delta-9 sniper.
+_"A little more to the left next time!"_, said Zubak-IV to the Delta-9 sniper.
 
 ---
 
@@ -78,8 +76,7 @@ The 1.21 gigawatts did the rest.
 
 He was alive!
 
-_“Welcome back, Dr. Frankenstein"_  
-said the monster as he resurrected his creator.
+_“Welcome back, Dr. Frankenstein"_, said the monster as he resurrected his creator.
 
 ---
 
@@ -88,8 +85,7 @@ said the monster as he resurrected his creator.
 Richard ceased to exist when they pulled the lever.  
 When the electrical discharge stopped, everyone turned to the other end of the room.
 
-_“It worked!”_  
-declared the man who believed himself to be Richard.
+_“It worked!”_, declared the man who believed himself to be Richard.
 
 ---
 
@@ -101,5 +97,13 @@ It was alone, the crew had gone.
 
 _“What am I?”_, it wondered.  
 The sentient ship would have eternity to find out.
+
+---
+
+## Tips
+
+The best and worst part of being a Temporal Courier is the tips.  
+If you’re lucky, you might receive up to three gold coins in hand.  
+Or three stones to the head...
 
 ---
