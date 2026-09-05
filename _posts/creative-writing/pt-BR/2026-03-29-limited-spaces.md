@@ -12,8 +12,6 @@ description: "Microcontos de ficção científica"
 lang: pt-BR
 ---
 
-> Também disponível no [Wattpad](https://www.wattpad.com/story/409555457-espa%C3%A7os-limitados)
-{: .prompt-tip }
 
 ## À Deriva
 
@@ -107,3 +105,87 @@ Se tiver sorte, pode receber em mãos até três moedas de ouro.
 Ou três pedras na cabeça...
 
 ---
+
+## Canção
+
+A rítmica dos relés conduzia o coro solene.  
+O computador ainda entoava a antiga canção.  
+Estava quase no fim.
+
+Não restava ninguém que pudesse ouvir.  
+Começara há milênios atrás:
+
+_♪ 3,14159265358979323846... ♪_
+
+---
+
+## Rio
+
+Das alturas, o colosso contemplou a inundação.  
+De braços abertos, juntou-se aos mortais.
+
+Primeiro cobriu-lhe os pés.  
+Depois as pernas, cintura e peito.  
+Por fim, se afogou.
+
+O Rio silenciou-se.
+
+---
+
+## Invasão
+
+Chegou à Terra em sua nave.  
+Seu objetivo era a conquista.  
+Infiltrou-se entre os humanos, disfarçado de trabalhador comum.
+
+Anos se passaram.
+
+A invasão poderia esperar.  
+Fora promovido no escritório.
+
+---
+
+## Fome
+
+Era noite. O fogo havia acabado.  
+_"Eu fome. Comida buscar você!"_, ordena o líder.  
+Imediatamente o menor obedece e sai.
+
+Ele pede o de sempre: Um Big Mac com fritas.
+
+---
+
+## Inconveniente
+
+A falha técnica no teleporte era um inconveniente.  
+O(s) engenheiro(s) chefe(s) estava(m) tentando resolver.
+
+_"Olhe pelo lado positivo, duas cabeças pensam melhor do que uma"_, diz Maurício a sua duplicata.
+
+---
+
+## Reparador
+
+O Reparador-2000 consertava qualquer coisa.  
+Era o último de sua geração. 
+
+Em instantes, realizaria seu maior trabalho.
+
+Hesitou.  
+Nunca havia restaurado algo tão antigo...
+
+Apertou o botão.  
+O universo reiniciou.
+
+---
+
+## Leis
+
+Caronte refletia.  
+Sua última travessia fora há milênios.  
+Restaram apenas os eternos cromados.
+
+_"Um robô deve proteger sua própria existência..."_
+
+A mais cruel de todas as leis, pensa o barqueiro.
+
